@@ -1,0 +1,6 @@
+Kata 1: Binary Search
+Given a sorted array, use binary search to find a value
+Exist : return it
+Not exist : return -1
+Signature : chop(int, array_of_int) -> int
+Kata Link : http://codekata.com/kata/kata02-karate-chop/
